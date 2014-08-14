@@ -53,6 +53,7 @@ Contents
    use
    examples
    templates
+   tenant_settings
    test
    involved
 
